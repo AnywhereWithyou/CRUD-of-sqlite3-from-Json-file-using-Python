@@ -1,0 +1,47 @@
+
+{
+   "myFoods":[
+      {
+         "id":1,
+         "name":"food1",
+         "foods":[
+            {
+               "name": "food1",
+               "description": "This is food1",
+	            "price": 100,
+               "is_vegan": true,
+               "is_special": false,
+               "toppings": [ "toppings1", "toppings2" ]
+            }
+         ]
+      },
+      {
+         "id":2,
+         "name":"food2",
+         "foods":[
+            {
+               "name": "food2",
+               "description": "This is food2",
+	            "price": 200,
+               "is_vegan": false,
+               "is_special": false,
+               "toppings": [ "toppings1", "toppings2" ]
+            }
+         ]
+      },
+      {
+         "id":3,
+         "name":"food3",
+         "foods":[
+            {
+               "name": "food3",
+               "description": "This is food3",
+	            "price": 300,
+               "is_vegan": true,
+               "is_special": false,
+               "toppings": [ "toppings1", "toppings2" ]
+            }
+         ]
+      }
+]
+}
